@@ -1,4 +1,3 @@
-<?php  ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +20,7 @@
            <option value="Dividir">Dividir</option>
         </select>   
    	
-   </form>
+    </form>
 
 </body>
 
