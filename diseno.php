@@ -13,12 +13,13 @@
            <input type="text" name="C2">
            <input type="text" name="C3">
         <h2>Coloque los Valores</h2>
-        <select>
+        <select name="lista">
            <option value="Sumar">Sumar</option>
            <option value="Restar">Restar</option>
            <option value="Multiplicar">Multiplicar</option>
            <option value="Dividir">Dividir</option>
-        </select>   
+        </select>  
+          <input type="submit" value="Ver Resultado"> 
    	
     </form>
 
