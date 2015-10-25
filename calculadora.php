@@ -1,4 +1,5 @@
 <?php
+//practicando
 
 $operacion = $_POST['lista'];
 
