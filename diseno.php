@@ -1,3 +1,12 @@
+<?php 
+    if (@$_GET['mensaje'] != null) {
+    echo '<script language="javascript">alert("'.@$_GET['mensaje'].'");</script>';
+      
+    }
+
+
+    //echo '<script language="javascript">alert("'.@$_GET['mensaje'].'");</script>';
+?>
 <!DOCTYPE html>
 <html>
 <head>
